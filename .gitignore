@@ -205,3 +205,36 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Data science / ML artifacts
+*.pdf
+*.png
+*.svg
+*.pkl
+*.joblib
+*.log
+
+# Build / packaging
+build/
+dist/
+downloads/
+develop-eggs/
+eggs/
+lib/
+lib64/
